@@ -1,6 +1,9 @@
 # Gmail Clone
 
-A feature-rich Gmail clone built using React, Redux, and Firebase.
+Gmail Clone is a fully functional email application that mimics the core features of Gmail. Built using React, Redux, and Firebase, this project allows users to authenticate with Google, compose and send emails, and manage their inbox seamlessly. The application provides a modern and responsive user interface, ensuring a smooth user experience across all devices. Real-time updates are enabled using Firebase Firestore, making email interactions feel instant and dynamic.
+
+## Live Demo 🚀  
+Check out the live version of the app: [Gmail Clone](https://clone-a2af7.web.app/)
 
 ## Features
 - User authentication with Firebase
@@ -84,6 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, feel free to reach out:
-- GitHub: [yourusername](https://github.com/Vashu-Nayak)
+- GitHub: [Vashu-Nayak](https://github.com/Vashu-Nayak)
 - Email: nvashu1@gmail.com
 
